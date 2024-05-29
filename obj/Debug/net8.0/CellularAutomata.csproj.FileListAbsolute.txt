@@ -1,0 +1,14 @@
+C:\workspace\CellularAutomata\bin\Debug\net8.0\CellularAutomata.exe
+C:\workspace\CellularAutomata\bin\Debug\net8.0\CellularAutomata.deps.json
+C:\workspace\CellularAutomata\bin\Debug\net8.0\CellularAutomata.runtimeconfig.json
+C:\workspace\CellularAutomata\bin\Debug\net8.0\CellularAutomata.dll
+C:\workspace\CellularAutomata\bin\Debug\net8.0\CellularAutomata.pdb
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.AssemblyInfoInputs.cache
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.AssemblyInfo.cs
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.csproj.CoreCompileInputs.cache
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.dll
+C:\workspace\CellularAutomata\obj\Debug\net8.0\refint\CellularAutomata.dll
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.pdb
+C:\workspace\CellularAutomata\obj\Debug\net8.0\CellularAutomata.genruntimeconfig.cache
+C:\workspace\CellularAutomata\obj\Debug\net8.0\ref\CellularAutomata.dll
